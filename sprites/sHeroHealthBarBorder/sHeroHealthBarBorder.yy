@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Hero",
+    "path": "folders/SpritePack <--------/sHealthBar/Hero.yy",
   },
 }

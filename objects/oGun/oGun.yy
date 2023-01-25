@@ -29,6 +29,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "oWeapon",
-    "path": "folders/Objects/oWeapon.yy",
+    "path": "folders/Objects/oPlayer/oWeapon.yy",
   },
 }

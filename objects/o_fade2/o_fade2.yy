@@ -29,7 +29,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "StartScreen",
+    "path": "folders/Objects/StartScreen.yy",
   },
 }
