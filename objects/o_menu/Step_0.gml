@@ -12,10 +12,6 @@ if up and image_index > 0 {
 if down and image_index < image_number-1 {
 	image_index++;
 }
-if image_index = 1 and accept{
-	highscores_load();
-	room_goto(r_highscore);
-}
 
 if image_index = 4 and accept{
 	game_end();
