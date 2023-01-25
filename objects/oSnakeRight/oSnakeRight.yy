@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Minions",
-    "path": "folders/Objects/oEnemy/Minions.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

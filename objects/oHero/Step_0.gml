@@ -126,7 +126,7 @@ var _playerWeapons = global.PlayerWeapons;
 			var _bulletInst = instance_create_depth(x + _xOffset, centerY + _yOffset,depth-100,weapon.bulletObj);
 				
 			//Audio play sound
-			//audio_play_sound(sHeroShoot,5,false);
+			audio_play_sound(sHeroShoot,5,false);
 		
 			//change the bullet's direction
 			with(_bulletInst)

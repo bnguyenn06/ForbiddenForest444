@@ -27,7 +27,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Damage_Objects",
-    "path": "folders/Objects/Damage_Objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

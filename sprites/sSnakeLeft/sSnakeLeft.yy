@@ -78,7 +78,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Snake",
-    "path": "folders/SpritePack <--------/sEnemy/Snake.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }

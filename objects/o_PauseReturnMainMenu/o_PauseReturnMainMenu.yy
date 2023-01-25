@@ -27,7 +27,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Pause_Objects",
-    "path": "folders/Objects/Pause_Objects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

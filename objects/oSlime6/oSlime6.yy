@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Slime's",
-    "path": "folders/Objects/oEnemy/Minions/Slime's.yy",
+    "name": "oEnemy",
+    "path": "folders/Objects/oEnemy.yy",
   },
 }

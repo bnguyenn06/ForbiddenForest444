@@ -34,7 +34,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "oPlayer",
-    "path": "folders/Objects/oPlayer.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
