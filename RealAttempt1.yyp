@@ -116,6 +116,7 @@
     {"id":{"name":"oTreeOne","path":"objects/oTreeOne/oTreeOne.yy",},"order":23,},
     {"id":{"name":"r_pause","path":"rooms/r_pause/r_pause.yy",},"order":5,},
     {"id":{"name":"o_PauseForPauseRoom","path":"objects/o_PauseForPauseRoom/o_PauseForPauseRoom.yy",},"order":38,},
+    {"id":{"name":"sHeroShoot","path":"sounds/sHeroShoot/sHeroShoot.yy",},"order":0,},
     {"id":{"name":"oDamageHero","path":"objects/oDamageHero/oDamageHero.yy",},"order":14,},
     {"id":{"name":"sHeroDown","path":"sprites/sHeroDown/sHeroDown.yy",},"order":6,},
     {"id":{"name":"oSolidWall","path":"objects/oSolidWall/oSolidWall.yy",},"order":7,},
