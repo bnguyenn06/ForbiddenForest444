@@ -97,6 +97,7 @@
     {"id":{"name":"sMagicCircleRight","path":"sprites/sMagicCircleRight/sMagicCircleRight.yy",},"order":1,},
     {"id":{"name":"oPhantom","path":"objects/oPhantom/oPhantom.yy",},"order":32,},
     {"id":{"name":"sPlayerElfRight","path":"sprites/sPlayerElfRight/sPlayerElfRight.yy",},"order":2,},
+    {"id":{"name":"sHeroShoot","path":"sounds/sHeroShoot/sHeroShoot.yy",},"order":0,},
     {"id":{"name":"sEnemyBlueSlimeLeft","path":"sprites/sEnemyBlueSlimeLeft/sEnemyBlueSlimeLeft.yy",},"order":0,},
     {"id":{"name":"sPlayerRightT","path":"sprites/sPlayerRightT/sPlayerRightT.yy",},"order":1,},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},"order":33,},
