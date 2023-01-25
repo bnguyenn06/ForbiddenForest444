@@ -40,11 +40,11 @@ swapKeyPressed = keyboard_check_pressed( ord("Q"));
 	
 	
 	//collision
-	if place_meeting(x + xspd, y, oSolidObjects)
+	if place_meeting(x + xspd, y, oSolidWall)
 	{
 		xspd = 0;
 	}
-	if place_meeting(x, y+yspd, oSolidObjects)
+	if place_meeting(x, y+yspd, oSolidWall)
 	{
 		yspd = 0;
 	}
@@ -124,6 +124,9 @@ var _playerWeapons = global.PlayerWeapons;
 		for(var i = 0; i < weapon.bulletNum; i++ )
 		{
 			var _bulletInst = instance_create_depth(x + _xOffset, centerY + _yOffset,depth-100,weapon.bulletObj);
+			
+			//Audio play sound
+			audio_play_sound(sHeroShoot,5,false);
 		
 			//change the bullet's direction
 			with(_bulletInst)
