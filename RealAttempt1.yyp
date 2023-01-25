@@ -112,6 +112,7 @@
     {"id":{"name":"custom_functions","path":"scripts/custom_functions/custom_functions.yy",},"order":14,},
     {"id":{"name":"seq_splash","path":"sequences/seq_splash/seq_splash.yy",},"order":0,},
     {"id":{"name":"oHut","path":"objects/oHut/oHut.yy",},"order":31,},
+    {"id":{"name":"sHeroShoot","path":"sounds/sHeroShoot/sHeroShoot.yy",},"order":0,},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},"order":14,},
     {"id":{"name":"oTreeOne","path":"objects/oTreeOne/oTreeOne.yy",},"order":23,},
     {"id":{"name":"r_pause","path":"rooms/r_pause/r_pause.yy",},"order":5,},
