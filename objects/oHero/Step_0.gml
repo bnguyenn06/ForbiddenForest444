@@ -124,7 +124,7 @@ var _playerWeapons = global.PlayerWeapons;
 		for(var i = 0; i < weapon.bulletNum; i++ )
 		{
 			var _bulletInst = instance_create_depth(x + _xOffset, centerY + _yOffset,depth-100,weapon.bulletObj);
-			
+				
 			//Audio play sound
 			audio_play_sound(sHeroShoot,5,false);
 		
