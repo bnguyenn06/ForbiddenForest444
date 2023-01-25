@@ -1,1 +1,3 @@
-game_restart();
+
+
+room_goto(r_menu);
