@@ -136,7 +136,9 @@ var _playerWeapons = global.PlayerWeapons;
 		}	
 	}
 	//restart the game if the player dies
-	if(hp <= 0){room_goto_next() }
+	if(hp <= 0){
+		global.countup=false;
+		room_goto_next() }
 	
 	if place_meeting(x, y, oEnemyBullet)
 {

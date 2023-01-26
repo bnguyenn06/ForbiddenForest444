@@ -1,5 +1,3 @@
-
-
 a=1;
 
 showtext=true;
@@ -11,6 +9,7 @@ alarm[0]=300;
 scale=1;
 // when grow is true 
 grow=true;
+
 
 
 

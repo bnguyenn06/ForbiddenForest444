@@ -8,7 +8,7 @@ draw_set_alpha(a);
 
 //set the font color and alignment
 draw_set_font(f_scroll);
-draw_set_color(c_green);
+draw_set_color(c_white);
 //draw_set_halign(fa_center);
 //draw_set_halign(fa_middle);
 
@@ -29,6 +29,8 @@ draw_set_alpha(1);
 
 draw_set_font(f_normal);
 draw_set_color(c_white);
+
+
 
 
 
