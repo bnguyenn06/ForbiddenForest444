@@ -1,5 +1,7 @@
 newWinner=0;
 
+highscores_load();
+
 if(global.mins*60 + global.seconds) > (global.high_mins*60+global.high_seconds){
 	
 	
@@ -16,7 +18,5 @@ if(global.mins*60 + global.seconds) > (global.high_mins*60+global.high_seconds){
 	
 }
 
-//reset current scores
-	global.mins=0;
-	global.seconds=0;
+
 
