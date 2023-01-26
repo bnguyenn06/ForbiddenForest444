@@ -12,7 +12,11 @@ if(global.mins*60 + global.seconds) > (global.high_mins*60+global.high_seconds){
 	
 	highscore_save();
 	
+	
+	
 }
 
-
+//reset current scores
+	global.mins=0;
+	global.seconds=0;
 
