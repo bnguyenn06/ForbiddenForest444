@@ -10,6 +10,9 @@ global.EnemiesKCount = 0;
 	hHealthBar_x = (2300/2) - (hHealthBar_width/2)
 	hHealthBar_y = ystart - 490;
 	// End of Health Bar variables declaration
+	
+//Audio play sound - looping
+audio_play_sound(sPlayBackground,1,true);
 
 //variables for movement
 	moveDir = 0;
