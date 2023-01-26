@@ -11,5 +11,3 @@ if (global.seconds<60)&& (global.seconds>59.9){
 
 
 
-
-

@@ -124,9 +124,6 @@ var _playerWeapons = global.PlayerWeapons;
 		for(var i = 0; i < weapon.bulletNum; i++ )
 		{
 			var _bulletInst = instance_create_depth(x + _xOffset, centerY + _yOffset,depth-100,weapon.bulletObj);
-				
-			//Audio play sound
-			audio_play_sound(sHeroShoot,5,false);
 		
 			//change the bullet's direction
 			with(_bulletInst)
@@ -138,7 +135,9 @@ var _playerWeapons = global.PlayerWeapons;
 	//restart the game if the player dies
 	if(hp <= 0){
 		global.countup=false;
-		room_goto_next() }
+		room_goto_next(); 
+		
+		}
 	
 	if place_meeting(x, y, oEnemyBullet)
 {

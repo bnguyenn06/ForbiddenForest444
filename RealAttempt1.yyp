@@ -132,7 +132,6 @@
     {"id":{"name":"sPlayBackground","path":"sounds/sPlayBackground/sPlayBackground.yy",},"order":1,},
     {"id":{"name":"sEnemyHealthBarBorder","path":"sprites/sEnemyHealthBarBorder/sEnemyHealthBarBorder.yy",},"order":21,},
     {"id":{"name":"oGun18","path":"objects/oGun18/oGun18.yy",},"order":1,},
-    {"id":{"name":"oPause","path":"objects/oPause/oPause.yy",},"order":12,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"oDeadTree","path":"objects/oDeadTree/oDeadTree.yy",},"order":20,},
     {"id":{"name":"sCrystalBallShoot_Down","path":"sprites/sCrystalBallShoot_Down/sCrystalBallShoot_Down.yy",},"order":2,},
